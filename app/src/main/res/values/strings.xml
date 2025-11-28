@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PracticeApp</string>
+    <string name="registration">Регистрация</string>
+    <string name="help">Помощь</string>
+    <string name="login">Вход</string>
+    <string name="hint_first_name">Введите ваше имя</string>
+    <string name="hint_last_name">Введите вашу фамилию</string>
+    <string name="hint_contact_number">Введите ваш контактный номер</string>
+    <string name="button_register">Зарегистрироваться</string>
+    <string name="terms_and_conditions">Согласен(-а) с условиями использования</string>
+    <string name="welcome_ivan">Иван, приветствуем в нашем приложении</string>
+    <string name="button_click">КЛИК</string>
+    <string name="suggestions">Предложения</string>
+    <string name="city_moscow">Москва</string>
+    <string name="city_st_petersburg">Санкт-Питербург</string>
+    <string name="city_novosibirsk">Новосибирск</string>
+    <string name="city_vladivostok">Владивосток</string>
+    <string name="title_activity_user_list">Список пользователей</string>
+</resources>
